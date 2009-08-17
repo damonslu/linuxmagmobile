@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+<TextView android:id="@+id/Instructions" android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="90px" android:text="Please enter Ticket # and Desired Status" android:minWidth="200px"></TextView>
+
+<TableLayout android:id="@+id/TableLayout01" android:layout_width="fill_parent" android:layout_height="wrap_content">
+<TableRow android:id="@+id/TableRow01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20px">
+<EditText android:id="@+id/TicketNumber" android:layout_height="wrap_content" android:layout_width="wrap_content" android:width="100px"/>
+<Spinner android:id="@+id/TicketStatus" android:layout_width="wrap_content" android:layout_height="wrap_content" android:entries="@array/Ticket_Options"></Spinner>
+</TableRow>
+</TableLayout>
+<Button android:id="@+id/GoButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Update Ticket" android:layout_marginTop="10px" android:layout_gravity="center_vertical|center_horizontal"></Button>
+<ImageView android:id="@+id/ImageView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/lmlogo" android:layout_marginTop="10px" android:layout_gravity="center_vertical|center_horizontal" android:longClickable="true"></ImageView>
+</LinearLayout>
