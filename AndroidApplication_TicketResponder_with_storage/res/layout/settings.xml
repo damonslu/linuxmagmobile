@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="90px" android:text="User:" android:minWidth="200px"></TextView>
+<EditText android:id="@+id/userName" android:layout_height="wrap_content" android:layout_width="wrap_content" android:width="200px"/>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="90px" android:text="Password:" android:minWidth="200px"></TextView>
+<EditText android:id="@+id/password" android:layout_height="wrap_content" android:layout_width="wrap_content" android:width="200px" android:password="true"/>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="90px" android:text="Server Address:" android:minWidth="200px"></TextView>
+<EditText android:id="@+id/serverAddress" android:layout_height="wrap_content" android:layout_width="wrap_content" android:width="300px"/>
+
+<Button android:id="@+id/saveButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Save Settings" android:layout_marginTop="10px" android:layout_gravity="center_vertical|center_horizontal"></Button>
+</LinearLayout>
