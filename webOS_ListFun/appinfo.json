@@ -1,0 +1,9 @@
+{
+	"id": "com.msiservices.listfun",
+	"version": "1.0.0",
+	"vendor": "MSI Services",
+	"type": "web",
+	"main": "index.html",
+	"title": "ListFun",
+	"icon": "icon.png"
+}
