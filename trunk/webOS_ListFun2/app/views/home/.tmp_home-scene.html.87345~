@@ -1,0 +1,7 @@
+<div class="palm-group">
+	<div class="palm-group-title" style="text-align:center">List Fun</div>
+		<div class="palm-list" >
+		<div x-mojo-element="List" id="teamList"></div>
+		</div>
+</div>
+
