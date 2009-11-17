@@ -1,0 +1,52 @@
+## RIM Java Development Environment
+# RIM Project file
+#
+# This file is generated and managed by BlackBerry developer tools.
+# It SHOULD NOT BE modified manually.
+#
+AddOn=0
+AlwaysBuild=1
+[AlxImports
+]
+AutoRestart=0
+[ClassProtection
+]
+[CustomBuildFiles
+]
+[CustomBuildRules
+]
+[DefFiles
+]
+[DependsOn
+]
+Description=Demo of Menus
+ExcludeFromBuildAll=0
+[Files
+src\com\msi\linuxmagazine\LMMenu.java
+src\com\msi\linuxmagazine\MenuDemo.java
+]
+HaveAlxImports=0
+HaveDefs=0
+HaveImports=0
+[Icons
+]
+[ImplicitRules
+]
+[Imports
+]
+Listing=0
+Options=-deprecation
+OutputFileName=LMMenus
+[PackageProtection
+]
+RibbonPosition=0
+[RolloverIcons
+]
+RunOnStartup=1
+StartupTier=7
+SystemModule=1
+Title=Linux Magazine Menu Demo
+Type=0
+UserData=|src
+Vendor=MSI Services
+Version=1.0.0.0

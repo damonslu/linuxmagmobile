@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: LMMenus
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_menuitem,net_rim_bbapi_browser
+MIDlet-Jar-Size: 4083
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1258424246
+MIDlet-Jar-URL: LMMenus.jar
+RIM-COD-URL: LMMenus.cod
+RIM-COD-SHA1: c4 a5 2a a2 bf 5c 86 91 8d e6 55 3e 8a db a3 76 29 c3 9b b5
+RIM-COD-Size: 1736
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.0
+MIDlet-Name: LMMenus
+MIDlet-Description: Demo of Menus
+MIDlet-Vendor: <unknown>
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
