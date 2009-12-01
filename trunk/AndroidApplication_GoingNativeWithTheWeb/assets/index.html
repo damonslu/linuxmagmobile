@@ -1,0 +1,17 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=0.25,user-scalable=yes" />
+<title>Going Native</title>
+</head>
+<body onload="window.linuxmag.Info('App loaded!');">
+<center>
+<h3>Going (Web) Native</h3>
+<input type="text" id="ib"><br />
+<button onclick="window.linuxmag.Info(document.getElementById('ib').value);">Log Info</button>&nbsp;&nbsp;
+<button onclick="window.linuxmag.Error(document.getElementById('ib').value);">Log Error</button><br />
+<button onclick="if (window.confirm('End App?')) window.linuxmag.EndApp();">Kill This App</button><br />
+<img src="file:///android_asset/lmlogo.jpg">
+</center>
+</body>
+</html>
+
