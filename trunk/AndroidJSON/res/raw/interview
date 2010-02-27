@@ -1,0 +1,78 @@
+{
+"firstname":"Richard",
+"lastname":"Stearns",
+"almamater":"Cornell University",
+"occupation":"President, World Vision",
+"interview":
+	{
+		"source" : "http://blog.guykawasaki.com/2007/05/ten_or_so_quest.html#ixzz0giEIX0zY",
+		"questions":
+			[
+			{
+			"Question": "How much money does World Vision raise every year?",
+			"Answer": "Worldwide, World Vision raises about $2 billion annually; the U.S. office, which I head up, raises about half of the total."
+			},
+			{
+			"Question": "Is this the 80/20 rule where twenty percent of the people send in eighty percent of the money or are donations more spread out?",
+			"Answer": "World Vision's strength is that we are supported by hundreds of thousands of faithful people who give us about a dollar a day by sponsoring children. Our \"major donors\" account for less than five percent of our total income. Also, for a non-profit, we have quite a diversified portfolio of revenue. Just over forty percent is cash from private citizens; thirty percent is government grants in food and cash; and about thirty percent are products donated from corporation--what we call \"gifts-in-kind.\""
+			},
+			{
+			"Question": "You had a nearly seven-figure salary, a corporate Jaguar, moved and took a seventy-five percent cut in pay. Why did you leave the corporate sector in 1998 after twenty-three years to run an international Christian humanitarian organization?",
+			"Answer": "It wasn't something I planned. At the time, I didn't even want the job. I had been a donor to World Vision for fifteen years when, through a long series of circumstances, I was approached by World Vision, interviewed and offered the position. As a committed Christian, I felt I couldn't say no. When God gives you an opportunity to serve, you obey. I had \"talked the talk\" of being a Christian for many years, now I needed to \"walk the walk.\" It has turned out to be the greatest privilege of my life to serve the poorest of the poor in Christ's name."
+			},
+			{
+			"Question": "What was the biggest adjustment to your new role?",
+			"Answer": "There have been lots of adjustments. Business travel now means getting shots and medicine for yellow fever, malaria, typhoid and hepatitis. I used to travel to London, Paris and Milan, sharing $1,000 dinners with the heads of other luxury goods companies. Now I’m visiting desperate people in places like Ethiopia, India, Peru and Uganda. I'm more likely to be visiting garbage dumps, brothels, and refugee camps than five-star hotels."
+			},
+			{
+			"Question": "What are the greatest differences and similarities between running a major corporation and running a large non-profit?",
+			"Answer": "They are both businesses with revenues, expenses, and a bottom line. Both have marketing, sales, finance, IT, HR, strategy, etc. Perhaps the biggest difference is that our bottom line is changed lives--money is simply a means to that end. Our shareholders are the poor, and our donors who make our work possible."
+			}
+			,
+			{
+			"Question": "Are you trying to end poverty or evangelize Christianity?",
+			"Answer": "As a Christian organization, we are motivated by our commitment to Christ to love our neighbors and care for the less fortunate. That's why we do what we do. We don't proselytize. We do not force our religious beliefs on anyone, and we don't discriminate in our delivery of aid in any way. If the people we serve want to know why we are there, we tell them. St. Francis once said: \"Preach the gospel at all times. Use words if necessary.\" Love put into action is a compelling and attractive worldview."
+			},
+			{
+			"Question" : "How can people who do not want to radically change their lives make a difference in the lives of the poor?",
+			"Answer": "To really change the world, values must change. Consider the civil rights movement. Racial discrimination was once openly accepted in the United States. Today it is unacceptable to our mainstream culture. Very few of us are civil rights activists, but we let our values speak in our work places, our schools and to our elected officials. Today, we live in a world that tolerates extreme poverty much like racism was tolerated fifty-plus years ago. We can all become people determined to do something to change the world. We can speak up, we can volunteer and we can give. Ending extreme poverty will take money, political and moral will, and a shift in our value system. When enough ordinary people embrace these issues, things will begin to change. Margaret Mead once said: \"Never doubt that a small group of committed citizens can change the world. Indeed, it's the only thing that ever has.\""
+			},
+			{
+			"Question": "In the eyes of God, do you think someone who goes to Africa and helps AIDS victims is better or worse than someone who writes a check every month?",
+			"Answer": "I can't speak for God, but I believe God is pleased whenever anyone does something out of love to help the downtrodden. Hands, hearts, and checkbooks are all vital. If we all just did a little--our part--we could change the world."
+			},
+			{
+			"Question" :"What keeps you awake at night as the CEO of World Vision?",
+			"Answer": "If I thought every moment about the incredible suffering around the world I would never sleep. I worry about keeping the covenant we have with the poor and with our donors. It is a very sacred responsibility."
+			},
+			{
+			"Question": "What are biggest hurdles to alleviating poverty?",
+			"Answer": "One word: apathy. The very frustrating part is that we actually have the knowledge and the ability to end most extreme poverty. The world just doesn't care enough to do it. The U.S. government has spent more than $400 billion on the war in Iraq to date. Our annual humanitarian assistance budget for the whole world is only about $21 billion. We spend less than a half percent of our federal budget on humanitarian assistance and less than two percent of private charitable giving goes to international causes. People and governments make choices based on their priorities. Poverty is still not a high priority for the world."
+			},
+			{
+			"Question": "What's the biggest obstacle to get rich people to care about poor people?",
+			"Answer": "The obstacle is that poverty is often not personal. If your next-door neighbor's child was dying and you could save her for $100, you wouldn't think twice. But a child 10,000 miles away whom you have never met, that's just different. About 29,000 kids die every day of preventable causes--29,000! These kids have names and faces, hopes and dreams. Their parents love them as much as we love our kids. We've got to make poverty personal. Stalin once said: \"A million deaths is a statistic, one death is a tragedy.\" We must try to see the face of the one child."
+			},
+			{
+			"Question": "Why is World Vision so successful at fund raising?",
+			"Answer": "The real secret of our fundraising is the notion of child sponsorship. We allow people to see the face of that one child - we make that child real to them. It is very difficult to raise money for poverty eradication - much easier to raise money to help a specific child. It makes it personal. Of course we also have fiendishly clever and committed marketing people who really care about their cause. We also represent an amazingly compelling selling proposition: Where else can you spend your money and know that you may have saved a life, or changed the world for the better?"
+			},
+			{
+			"Question": "How has technology affected World Vision's work?",
+			"Answer": "Not enough. I think we have just scratched the surface in using technology and the Internet to change the values of Americans and to raise money for our cause. Technology can make this abstract and far away notion of global poverty real. We can take you straight to Africa via the web and let you meet your sponsored child. We can show you the village celebration when a drilling rig strikes clean water for the first time, or a clinic or school is dedicated. We are beginning to experiment with techniques to bring this stuff to life for people. Maybe some of your readers could help us."
+			},
+			{
+			"Question": "What advice would you give to someone reading this who is considering leaving a corporate job to \"change the world?\"",
+			"Answer": "There's a tendency among those uninformed about global poverty to say, \"This ain't rocket science. People are hungry; let’s feed them.\" What they don’t realize is that the deeper you get into relief and development, you realize it really is rocket science. Problems like poverty, disease and hunger are humanity's most intractable problems. They haven't been solved in 5,000 years, and they won't be solved overnight. We need to systematically address a wide range of social, environmental, cultural, political, and religious issues. But the good news is that we do have the answers. Now, we just need the resolve to make poverty reduction a priority and persevere until we see results. We can fix this; we really can."
+			},
+			{
+			"Question": "Do the efforts of rock stars and movie stars really help alleviate poverty and AIDS or are these people just seeking more publicity to sell albums?",
+			"Answer": "They make a difference. Given the number of celebrities in our world it is actually shocking that so few of them are using their celebrity to make a difference. Bono is amazing. He has perhaps done more for the poor than anyone in the last century. I call him \"Martin Luther Bono\" because he has really been the leader of our movement.  Bill and Melinda Gates are changing the global landscape for health and development. The media rarely want to talk to me about poverty, but many reporters gush at the chance to talk with Brad Pitt, Angelina Jolie, or Oprah. That's just the way it is. I welcome celebrities who really want to make a difference."
+			},
+			{
+			"Question": "How do you want World Vision to be perceived twenty-five years from now?",
+			"Answer": "I want World Vision to be the best at what we do. There is too much at stake to be anything less. If it could be said of us that we gave the poor a voice, that we provoked the rich and the powerful to action and that we gave hope to people trapped in hopelessness, I would be deeply gratified. My favorite Bible passage is from the book of Job. It would make a wonderful epitaph for World Vision:\nWhoever heard me spoke well of me, and those who saw me commended me, because I rescued the poor who cried for help, and the fatherless who had none to assist him.\nThe man who was dying blessed me; I made the widow's heart sing.\nI put on righteousness as my clothing; justice was my robe and my turban.\nI was eyes to the blind and feet to the lame.\nI was a father to the needy; I took up the case of the stranger.\nI broke the fangs of the wicked; and snatched the victims from their teeth."
+			}
+		]
+	}
+}
